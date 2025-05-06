@@ -1,5 +1,5 @@
 /*
-1- Cargar un array con 10 números aleatorios entre 1 y 100. Mostrar el mayor y el menor.
+//1- Cargar un array con 10 nÃºmeros aleatorios entre 1 y 100. Mostrar el mayor y el menor.//
  
 
 using System.Collections.Generic;
@@ -40,7 +40,7 @@ namespace ConsoleApp3
                }
                else
                {
-                   Console.WriteLine("Ingresar números entre el 1 y 100");
+                   Console.WriteLine("Ingresar nÃºmeros entre el 1 y 100");
                }
            }
 
@@ -53,7 +53,7 @@ namespace ConsoleApp3
 
 
 /*
-2- Solicitar al usuario 8 nombres y almacenarlos en un array. Mostrar cuántos empiezan con la letra 'A'.
+//2- Solicitar al usuario 8 nombres y almacenarlos en un array. Mostrar cuÃ¡ntos empiezan con la letra 'A'.//
 
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
@@ -91,7 +91,7 @@ namespace ConsoleApp3
 
 
 /*
-3- Ingresar 10 números y mostrar cuántos son positivos, negativos y ceros.
+//3- Ingresar 10 nÃºmeros y mostrar cuÃ¡ntos son positivos, negativos y ceros.//
 
 using System;
 using System.Collections.Generic;
@@ -138,7 +138,7 @@ namespace ConsoleApp3
 */
 
 /*
-4- Crear un array con los días de la semana y mostrar solo los días laborales.
+//4- Crear un array con los dÃ­as de la semana y mostrar solo los dÃ­as laborales.//
 
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
