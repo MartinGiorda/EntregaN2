@@ -1,5 +1,5 @@
 ﻿/*
-1- Solicitar al usuario que ingrese 5 números enteros y guardarlos en una lista. Luego calcular y mostrar la suma total de los elementos. 
+//1- Solicitar al usuario que ingrese 5 números enteros y guardarlos en una lista. Luego calcular y mostrar la suma total de los elementos.// 
  
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
@@ -31,7 +31,7 @@ namespace ConsoleApp3
 */
 
 /*
-2- Pedir al usuario que ingrese 7 números y guardarlos en una lista. Luego pedir otro número y verificar si está en la lista. Mostrar un mensaje informando si se encontró o no.
+//2- Pedir al usuario que ingrese 7 números y guardarlos en una lista. Luego pedir otro número y verificar si está en la lista. Mostrar un mensaje informando si se encontró o no.//
 
 
 using System.Collections.Generic;
@@ -78,7 +78,7 @@ namespace ConsoleApp3
 */
 
 /*
-3- Generar una lista con 10 números aleatorios entre 1 y 100. Luego pedir al usuario un valor límite y eliminar todos los elementos menores a ese valor. Mostrar la lista resultante.
+//3- Generar una lista con 10 números aleatorios entre 1 y 100. Luego pedir al usuario un valor límite y eliminar todos los elementos menores a ese valor. Mostrar la lista resultante.//
 
 
 using System.Collections.Generic;
