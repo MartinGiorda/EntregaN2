@@ -1,5 +1,5 @@
 ﻿/*
-1- Crear una matriz de 3x3. Solicitar al usuario que ingrese todos los elementos y luego mostrar la suma de cada fila.
+//1- Crear una matriz de 3x3. Solicitar al usuario que ingrese todos los elementos y luego mostrar la suma de cada fila.//
 
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
@@ -49,7 +49,7 @@ namespace ConsoleApp3
 */
 
 /*
-2- Cargar una matriz de 3x3. Mostrar la fila con mayor suma.
+//2- Cargar una matriz de 3x3. Mostrar la fila con mayor suma.//
 
 
 using System.Collections.Generic;
@@ -106,7 +106,7 @@ namespace ConsoleApp3
 */
 
 /*
-3- Crear una matriz de 3x3. Reemplazar todos los elementos negativos por cero.
+//3- Crear una matriz de 3x3. Reemplazar todos los elementos negativos por cero.//
 
 
 using System.Collections.Generic;
